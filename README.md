@@ -1,16 +1,17 @@
 # flutter_screenpratice
 
-A new Flutter project.
+Influencer Market
+This mobile application built with Flutter is a "market" for influencers, where you can find and hire influencers for social media marketing campaigns.
 
-## Getting Started
+This project was created with the goal of practicing good Flutter development practices and showing my skills for future job opportunities.
 
-This project is a starting point for a Flutter application.
+Installation
+To install the app on your device, simply follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+Clone this repository on your machine using the git clone https://github.com/your-username/influencer-market.git command.
+Navigate to the project folder using the cd influencer-market command.
+Run the flutter packages get command to install all project dependencies.
+Connect your mobile device to your computer or run the app on an emulator.
+Run the flutter run command to start the app on your device.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
